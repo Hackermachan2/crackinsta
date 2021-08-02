@@ -7,10 +7,7 @@
 #
 #  [Author]
 #
-#  Muris Kurgas aka j0rgan
-#  j0rgan [at] remote-exploit [dot] org
-#  http://www.remote-exploit.org
-#  http://www.azuzi.me
+#  Hackermachan
 #
 #  [License]
 #
@@ -41,7 +38,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-__author__ = "Muris Kurgas"
+__author__ = "Hackermachan"
 __license__ = "GPL"
 __version__ = "3.2.5-alpha"
 
